@@ -1,0 +1,45 @@
+[
+        {
+            "id": "1",
+            "img": "/imagens_produtos/cake.jpg",
+            "nome": "Bolos",
+            "descricao": "Bolo com três camadas de chocolate e creme de frutas. Pura felicidade! Leve também o nosso bolo de cenoura super úmido com cenoura ralada na hora, passas e nozes.",
+            "modalinfo": "Não é festa sem bolo, né? <br> <br> A nossa gama de bolos de festa é perfeita para qualquer tipo de celebração ou evento, incluindo aniversários, batizados ou eventos corporativos. <br> <br> Se procura um fator 'uau' para o seu evento, um dos nossos bolos de festa feitos à mão é a escolha certa. Nossa nova linha de bolos de festa é entregue em qualquer lugar da cidade de São Paulo, então dê uma olhada em nossa variedade hoje!"
+        },
+        {
+            "id": "2",
+            "img": "/imagens_produtos/paes.jpg",
+            "nome": "Pães",
+            "descricao": "Fermento natural, farinha, água e sal: este é o início da nossa história. Ingredientes naturais, fermentação lenta e know-how ancestral dão vida aos nossos produtos frescos do dia a dia.",
+            "modalinfo": "loren"
+        },
+        {
+            "id": "3",
+            "img": "/imagens_produtos/brownie.jpg",
+            "nome": "Brownies",
+            "descricao": "Um clássico: brownies de chocolate recheados com lascas de chocolate e nozes sobre crosta de cracker graham e raspas de limão. Confira também o brownie de vinho.",
+            "modalinfo": "loren"
+        },
+        {
+            "id": "4",
+            "img": "/imagens_produtos/panettone.jpg",
+            "nome": "Panetones",
+            "descricao": "Combina qualidades de diferentes chocolates para um sabor clássico e um toque moderno. Também com creme de Licor Cointreau, revestido com o melhor chocolate puro.",
+            "modalinfo": "loren"
+        },
+        {
+            "id": "5",
+            "img": "/imagens_produtos/chatarde.jpg",
+            "nome": "Chá da tarde",
+            "descricao": "As nossas famosas cestas de chá da tarde são perfeitas para presentear amigos e familiares em todas as ocasiões, seja apenas um agradecimento ou um gesto de solidariedade.",
+            "modalinfo": "loren"
+        },
+        {
+            "id": "6",
+            "img": "/imagens_produtos/cupcakes.jpg",
+            "nome": "Cupcakes",
+            "descricao": "Nossos cupcakes são a maneira perfeita de se presentear. Não abrimos mão de grandes sabores e belos designs para deixar você com água na boca! Temos opções variadas.",
+            "modalinfo": "loren"
+        }        
+]    
+

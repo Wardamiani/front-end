@@ -1,0 +1,24 @@
+.descricao3 {
+  font-family: "lora", "san-serif";
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 2.5rem;
+  color: rgb(82, 82, 82);
+  text-align: center;
+  margin-top: 0;
+  display: block;
+  clear: both;
+  margin: 1em 9em;
+}
+
+.logo_fim {
+  width: 11rem;
+  margin: auto;
+  display: block;
+}
+
+.imgintervalo {
+  display: block;
+  margin: 5em auto 1em auto;
+  width: 10%;
+}

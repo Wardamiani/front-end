@@ -1,0 +1,115 @@
+body.active-modal {
+  overflow-y: hidden !important;
+}
+
+.logo2 {
+  width: 12em;
+  margin: 0.1em auto;
+  display: flex;
+  padding-bottom: 1em;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.448);
+}
+
+.btnmodal {
+  background-color: rgb(0, 0, 0);
+  color: white;
+  font-weight: 500;
+  font-family: "lora", "san-serif";
+  width: auto;
+  font-size: 1.4em;
+  padding: 0.5em 4.6em;
+  justify-content: center;
+  border-radius: 0.4em;
+  display: flex;
+  margin: auto;
+  margin-bottom: 0.5em;
+  align-items: center;
+  z-index: 1;
+  border: none;
+  outline: none;
+}
+
+.btnmodal:hover {
+  background-color: rgb(61, 61, 61);
+}
+
+.modal,
+.overlay {
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: fixed;
+  z-index: 1;
+}
+
+.overlay {
+  background-color: rgba(50, 70, 128, 0.415);
+  animation: fadeIn 0.5s;
+  -webkit-backdrop-filter: blur(1px);
+  backdrop-filter: blur(1px);
+}
+.modalcontent {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  line-height: 1.4;
+  background: rgba(54, 54, 54, 0.576);
+  backdrop-filter: blur(40px);
+  -webkit-backdrop-filter: blur(40px);
+  border: 0.1px solid rgba(196, 196, 196, 0.245);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 1, 0.413);
+  padding: 14px 28px;
+  border-radius: 15px;
+  max-width: 600px;
+  min-width: 300px;
+  animation-duration: 0.5s;
+  animation-name: animate-fade;
+  animation-delay: 0.05s;
+  animation-fill-mode: backwards;
+  z-index: 1;
+}
+
+@keyframes animate-pop {
+  0% {
+    opacity: 0;
+    transform: scale(0.5, 0.5);
+  }
+}
+
+@keyframes animate-fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.modalparag {
+  font-family: "lora", "san-serif";
+  width: 100%;
+  margin: 2em auto;
+  text-align: center;
+}
+
+.closemodal {
+  background-color: rgb(242, 241, 241);
+  font-weight: 500;
+  font-family: "lora", "san-serif";
+  width: 100%;
+  font-size: 1.4em;
+  padding: 5px 7px;
+  text-align: center;
+  justify-content: center;
+  border-radius: 0.4em;
+  display: flex;
+  width: 10em;
+  margin: auto;
+  align-items: center;
+  border: none;
+  outline: none;
+}

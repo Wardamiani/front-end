@@ -1,0 +1,41 @@
+.navbar {
+  display: flex; 
+  background-color: rgba(103, 103, 103, 0.392);
+  padding: .1em;
+  width: 100%; 
+  position: fixed;
+  -webkit-backdrop-filter: blur(50px) !important;
+  backdrop-filter: blur(30px) !important;
+  box-shadow: 0 20px 30px Orgba(o, 0,0,0.15) !important; 
+  z-index: 1; 
+  transition: all 0.5s;
+  justify-content: space-between;
+}
+
+.list {
+  display: flex;
+  list-style: none;
+  align-items:flex-end;
+}
+
+.item a {
+  margin-right: 5em;
+  margin-left: -4em;
+  font-family: "lora", sans-serif;
+  font-weight: 400;
+  font-size: 27px;
+  color: white;
+  position: right;
+  margin-top: 1em;
+  text-decoration: none;
+}
+
+.item a:hover {
+  color: rgb(66, 93, 148);
+  transition: 0.3s; 
+}
+
+.logo2 {
+  width: 9rem;
+  margin-left: 8em;
+}

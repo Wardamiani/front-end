@@ -1,0 +1,41 @@
+[
+    {
+        "id": "1",
+        "img": "/imagens_paes/centeio.jpg",
+        "nome": "Pão de centeio",
+        "descricao": "Uma celebração do sabor robusto. Feito com grãos de centeio selecionados, cada fatia oferece uma textura única, densa e suava. Perfeito para um paladar equilibrado."
+       
+    },
+    {
+        "id": "2",
+        "img": "/imagens_paes/brioche.jpg",
+        "nome": "Brioche",
+        "descricao": "Iguaria conhecida por sua textura leve e sabor rico. Feito com uma mistura indulgente de ovos, manteiga e farinha, o brioche é amanteigado e levemente adocicado. "
+    },
+    {
+        "id": "3",
+        "img": "/imagens_paes/ciabatta.jpg",
+        "nome": "Ciabatta",
+        "descricao": "Pão rústico e aerado, com casca crocante e miolo macio. Possui uma massa de longa fermentação. Ideal para ser apreciado com azeite de oliva e ervas frescas."
+   
+    },
+    {
+        "id": "4",
+        "img": "/imagens_paes/australiano.jpg",
+        "nome": "Pão australiano",
+        "descricao": "Versátil e perfeito para acompanhar queijos, geleias ou simplesmente com uma generosa camada de manteiga. Massa escura enriquecida com mel e cacau."   
+    },
+    {
+        "id": "5",
+        "img": "/imagens_paes/baguete.jpg",
+        "nome": "Baguete",
+        "descricao": "Ideal para sanduíches ou para ser acompanhada de queijos e vinhos. Com sua casca crocante e miolo alveolado, cada mordida revela uma textura leve e sabor delicado. " 
+    },
+    {
+        "id": "6",
+        "img": "/imagens_paes/croissant.jpg",
+        "nome": "Croissant",
+        "descricao": "Textura folhada e sabor inconfundível. Feito com massa laminada e camadas generosas de manteiga. Um clássico para acompanhar cafés e lanches, queijos finos e patês."    
+    }        
+]    
+

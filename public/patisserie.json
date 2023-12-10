@@ -1,0 +1,41 @@
+[
+    {
+        "id": "1",
+        "img": "/imgpatisserie/tropezienne.jpg",
+        "nome": "Tropézienne",
+        "descricao": "Composto por um brioche macio e um creme de baunilha. Leve, dourado e levemente adocicado. Generosamente decorado com um delicioso creme de baunilha."
+       
+    },
+    {
+        "id": "2",
+        "img": "/imgpatisserie/canneles.jpg",
+        "nome": "Cannelés",
+        "descricao": "Preparado com leite, farinha, açúcar, ovos, baunilha e claro, rum. Mas o que torna os cannelés especiais é aquela deliciosa crosta caramelizada por fora."
+    },
+    {
+        "id": "3",
+        "img": "/imgpatisserie/opera.jpg",
+        "nome": "L'Opéra",
+        "descricao": "Finas camadas de bolo de chocolate, creme de café e ganache. Sua apresentação é uma  homenagem à arte e à precisão, com linhas delicadas e acabamento cuidadoso."
+   
+    },
+    {
+        "id": "4",
+        "img": "/imgpatisserie/parisbrest.jpg",
+        "nome": "Paris-Brest",
+        "descricao": "Uma massa choux crocante, coberta com um creme de praliné rico em avelã. Decorado com amêndoas em flocos para adicionar um toque de delicadeza."   
+    },
+    {
+        "id": "5",
+        "img": "/imgpatisserie/tarteaucitron.jpg",
+        "nome": "Tarte au citron",
+        "descricao": "Um biscoito amanteigado crocante, coberto com creme de limão picante e uma camada de merengue. É uma sobremesa requintada, mas também muito deliciosa!" 
+    },
+    {
+        "id": "6",
+        "img": "/imgpatisserie/fondantauchocolat.jpg",
+        "nome": "Fondant au chocolat ",
+        "descricao": "Um bolo de chocolate ainda líquido por dentro. Uma mistura luxuosa de chocolate meio amargo, creme de leite e manteiga. Pura sofisticação na confeitaria."    
+    }        
+]    
+
