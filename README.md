@@ -1,4 +1,4 @@
-# Página de confeitaria e padaria, com três páginas interativas e conectadas
+# Projeto com três páginas interativas e conectadas
 
 Projeto consiste em três páginas relacionadas entre si e conectadas por routers do react. Todas ela possuem diversos componentes reaproveitados ao longo de todo o material.
 
